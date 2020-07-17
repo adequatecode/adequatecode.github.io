@@ -1,0 +1,1 @@
+# adequatecode.github.io
