@@ -1,0 +1,58 @@
+p{
+	font-family: Ibarra Real Nova;
+}
+
+.thrive{
+	width: 125px;
+	height: 60px;
+	position: relative;
+  left: 130px;
+  top: 10px;
+}
+
+.menu {
+	display: block;
+float: center;
+margin-right: auto;
+margin-left: auto;
+}
+.center {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 1000px;
+  	height: 350px;
+  	margin-top: 50px;
+  }
+
+.new{
+	text-align: center;
+	color: orange;
+}
+  hr {
+    display: block;
+    height: 1px;
+    width: 62em;
+    border: 0;
+    border-top: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: green;
+}
+
